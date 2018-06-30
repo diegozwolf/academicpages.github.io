@@ -3,11 +3,11 @@ title: "All Politics Is Olfactory” [Op-Ed]"
 collection: non_refereed_publications
 permalink: /non_refereed_publications/2-all_politics
 excerpt: 'The New York Times, October 23, 2010, p. WK12. First author, coauthored with David Pizarro.'
-date: 2010-10-23
+# date: 2010-10-23
 venue: 'Journal 1'
 # link
-# paperurl: '' 
-# citation: 'The New York Times, October 23, 2010, p. WK12. First author, coauthored with David Pizarro.'
+paperurl: 'https://www.nytimes.com/2010/10/24/opinion/24pizarro.html' 
+citation: 'Peter Liberman and David Pizarro, “All Politics Is Olfactory” [Op-Ed], The New York Times, October 23, 2010, p. WK12.'
 ---
  “All Politics Is Olfactory” [Op-Ed], The New York Times, October 23, 2010, p. WK12. First author, coauthored with David Pizarro.
 
