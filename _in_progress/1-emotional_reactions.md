@@ -3,7 +3,7 @@ title: "Emotional Reactions to Terrorism and U.S. Public Support for the Iraq Wa
 collection: in_progress
 permalink: /in_progress/1-emotional_reactions
 excerpt: 'presented at the Annual Meeting of the Midwest Political Science Association, Chicago, IL, April 5–8, 2018.'
-date: 2014-03-14
+# date: 2014-03-14
 venue: 'Journal 1'
 # link
 # paperurl: '' 
