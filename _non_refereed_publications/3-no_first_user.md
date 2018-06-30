@@ -7,7 +7,7 @@ permalink: /non_refereed_publications/3-no_first_user
 venue: 'Journal 1'
 # link
 paperurl: 'https://www.jstor.org/stable/1148688' 
-citation: 'Peter Liberman and Neil R. Thomason, “No-First-Use Unknowables,” Foreign Policy, No. 64 (Fall 1986): 17–36. Excerpted in Nuclear Arms: Sources, Vol. 2, eds. Bruno Leone et al. (St. Paul, Minn.: Greenhaven Press, 1987), 379–82.'
+citation: 'Peter Liberman and Neil R. Thomason, “No-First-Use Unknowables,” <i>Foreign Policy</i>, No. 64 (Fall 1986): 17–36. Excerpted in <i>Nuclear Arms: Sources</i>, Vol. 2, eds. Bruno Leone et al. (St. Paul, Minn.: Greenhaven Press, 1987), 379–82.'
 ---
 
 <!-- [Read paper here](http://www.foreignaffairs.com/articles/141036/peter-liberman-and-julie-a-george/will-conquest-pdf) -->
