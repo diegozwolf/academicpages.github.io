@@ -1,5 +1,5 @@
 ---
-title: "Retributive Support for International Punishment and Torture (April 2013)"
+title: "Retributive Support for International Punishment and Torture"
 collection: peer_reviewed_books
 permalink: /peer_reviewed_articles/5-retributive_support
 excerpt: 'Journal of Conflict Resolution, Vol. 51, No. 2 (April 2013), 285–306'
@@ -7,7 +7,7 @@ excerpt: 'Journal of Conflict Resolution, Vol. 51, No. 2 (April 2013), 285–306
 venue: 'Journal 1'
 # link
 # paperurl: '' 
-# citation: ''
+citation: 'Peter Liberman, “Retributive Support for International Punishment and Torture,” Journal of Conflict Resolution, Vol. 51, No. 2 (April 2013), 285–306.'
 ---
 “Retributive Support for International Punishment and Torture,” Journal of Conflict Resolution, Vol. 51, No. 2 (April 2013), 285–306.
 
