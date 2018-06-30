@@ -1,5 +1,5 @@
 ---
-title: "Unveiling South Africa’s Nuclear Past)"
+title: "Unveiling South Africa’s Nuclear Past"
 collection: peer_reviewed_books
 permalink: /peer_reviewed_articles/9-unveiling_south_africa
 # excerpt: ' '
