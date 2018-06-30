@@ -36,7 +36,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<h2>Book Reviews</h2>
+<!-- <h2>Book Reviews</h2>
 {% for post in site.book_reviews %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->

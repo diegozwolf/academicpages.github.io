@@ -1,9 +1,9 @@
 ---
 title: "test-book"
 collection: book_reviews
-permalink: /book_reviews/1-issf
+permalink: /book_reviews/11-testfile
 excerpt: 'Extended review of Paul MacDonald, Networks of Domination: The Social Foundations of Peripheral Conquest in International Politics.'
-date: 2005-10-28
+date: 2005-01-01
 venue: 'Journal 1'
 # link
 # paperurl: '' 
