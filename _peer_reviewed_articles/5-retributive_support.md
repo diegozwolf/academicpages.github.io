@@ -6,10 +6,10 @@ permalink: /peer_reviewed_articles/5-retributive_support
 # date: 2013-04-01
 venue: 'Journal 1'
 # link
-# paperurl: '' 
+paperurl: 'https://www.jstor.org/stable/23415229' 
 citation: 'Peter Liberman, “Retributive Support for International Punishment and Torture,” Journal of Conflict Resolution, Vol. 51, No. 2 (April 2013), 285–306.'
 ---
-“Retributive Support for International Punishment and Torture,” Journal of Conflict Resolution, Vol. 51, No. 2 (April 2013), 285–306.
+
 
 <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
 
