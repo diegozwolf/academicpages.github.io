@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<h2>Peer-Reviewed Books</h2>
+<h2>*Peer-Reviewed Books*</h2>
 
 
 {% if author.googlescholar %}
