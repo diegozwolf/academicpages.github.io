@@ -7,7 +7,7 @@ permalink: /peer_reviewed_articles/6-punitiveness_and_US
 venue: 'Journal 1'
 # link
 paperurl: https://www.jstor.org/stable/27638536 
-citation: 'Peter Liberman, Punitiveness and U.S. Elite Support for the 1991 Persian Gulf War,” Journal of Conflict Resolution, Vol. 51, No. 1 (February 2007): 3–32'
+citation: 'Peter Liberman, Punitiveness and U.S. Elite Support for the 1991 Persian Gulf War,” <i>Journal of Conflict Resolution</i>, Vol. 51, No. 1 (February 2007): 3–32.'
 ---
 
 <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
