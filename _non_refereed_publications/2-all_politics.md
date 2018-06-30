@@ -7,7 +7,7 @@ excerpt: 'The New York Times, October 23, 2010, p. WK12. First author, coauthore
 venue: 'Journal 1'
 # link
 paperurl: 'https://www.nytimes.com/2010/10/24/opinion/24pizarro.html' 
-citation: 'Peter Liberman and David Pizarro, “All Politics Is Olfactory” [Op-Ed], The New York Times, October 23, 2010, p. WK12.'
+citation: 'Peter Liberman and David Pizarro, “All Politics Is Olfactory” [Op-Ed], <i>The New York Times</i>, October 23, 2010, p. WK12.'
 ---
 
 
