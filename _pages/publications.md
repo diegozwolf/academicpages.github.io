@@ -18,25 +18,25 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<h2>Peer-Reviewed Articles</h2>
+<h2><i>Peer-Reviewed Articles</i></h2>
 
 {% for post in site.peer_reviewed_articles %}
    {% include archive-single.html %}
 {% endfor %}
 
-<h2>Non-refereed Publications</h2>
+<h2><i>Non-refereed Publications</i></h2>
 
 {% for post in site.non_refereed_publications %}
   {% include archive-single.html %}
 {% endfor %}
 
-<h2>Work in progress</h2>
+<h2><i>Work in progress</i></h2>
 
 {% for post in site.in_progress %}
   {% include archive-single.html %}
 {% endfor %}
 
-<!-- <h2>Book Reviews</h2>
+<!-- <h2><i>Book Reviews</i></h2>
 {% for post in site.book_reviews %}
   {% include archive-single.html %}
 {% endfor %} -->
