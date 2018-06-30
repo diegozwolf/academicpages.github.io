@@ -1,5 +1,5 @@
 ---
-title: "War and Torture as ‘Just Deserts (Spring 2014)"
+title: "War and Torture as ‘Just Deserts"
 collection: peer_reviewed_books
 permalink: /peer_reviewed_articles/4-war_ and_torture_as_just_deserts
 excerpt: 'Public Opinion Quarterly Vol. 78, No. 1 (Spring 2014), 47–70.'
@@ -7,7 +7,7 @@ excerpt: 'Public Opinion Quarterly Vol. 78, No. 1 (Spring 2014), 47–70.'
 venue: 'Journal 1'
 # link
 # paperurl: '' 
-# citation: ''
+# citation: 'Peter Liberman, "War and Torture as ‘Just Deserts’,” Public Opinion Quarterly Vol. 78, No. 1 (Spring 2014), 47–70.'
 ---
 “War and Torture as ‘Just Deserts’,” Public Opinion Quarterly Vol. 78, No. 1 (Spring 2014), 47–70. . 
 
