@@ -6,7 +6,7 @@ permalink: /peer_reviewed_articles/3-vicarius_revenge
 # date: 2014-05-01
 venue: 'Journal 1'
 # link
-# paperurl: '' 
+paperurl: 'http://journals.sagepub.com/doi/abs/10.1177/0146167214521466' 
 citation: 'Mario Gollwitzer, Linda J. Skitka, Anre Sjöström, Daniel Wisneski, Peter Liberman, Syed Javed Nazir, and Brad Bushman. "Vicarious Revenge and the Death of Osama bin Laden,” Personality and Social Psychology Bulletin, Vol. 40, No. 5 (May 2014): 604–616.'
 ---
 
