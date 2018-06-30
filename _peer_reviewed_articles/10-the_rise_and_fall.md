@@ -6,7 +6,7 @@ excerpt: ''
 # date: 2001-09-01
 venue: 'Journal 1'
 # link
-# paperurl: '' 
+paperurl: 'https://www.jstor.org/stable/pdf/3092122.pdf' 
 citation: 'Peter Liberman, “The Rise and Fall of the South African Bomb,” International Security, Vol. 26, No. 2 (Fall 2001): 45–86. '
 ---
 
