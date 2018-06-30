@@ -1,5 +1,5 @@
 ---
-title: "Will Conquest Pay? In Crimea, Russia Might Come Out Ahea [Op-Ed]"
+title: "Will Conquest Pay? In Crimea, Russia Might Come Out Ahead"
 collection: non_refereed_publications
 permalink: /non_refereed_publications/1-will_conquest_pay
 excerpt: 'ForeignAffairs.com, March 14, 2014. First author, coauthored with Julie A. George.'
