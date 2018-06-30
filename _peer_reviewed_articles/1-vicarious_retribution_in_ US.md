@@ -7,7 +7,7 @@ permalink: /peer_reviewed_articles/1-vicarious_retribution_in_ US
 venue: 'Journal 1'
 # link
 # paperurl: ''
-# citation: 'Peter Liberman and Linda J. Skitka, “Vicarious Retribution in U.S. Public Support for War Against Iraq,” Security Studies, forthcoming.'
+citation: 'Peter Liberman and Linda J. Skitka, “Vicarious Retribution in U.S. Public Support for War Against Iraq,” Security Studies, forthcoming.'
 ---
 
 <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
