@@ -7,7 +7,7 @@ permalink: /peer_reviewed_articles/9-unveiling_south_africa
 venue: 'Journal 1'
 # link
 paperurl: 'https://www.jstor.org/stable/4133904' 
-citation: 'Sello Hatang, Verne Harris, and Peter Liberman, “Unveiling South Africa’s Nuclear Past,” Journal of Southern African Studies, Vol. 30, No. 3 (Autumn 2004): 457–75.'
+citation: 'Sello Hatang, Verne Harris, and Peter Liberman, “Unveiling South Africa’s Nuclear Past,” <i>Journal of Southern African Studies</i>, Vol. 30, No. 3 (Autumn 2004): 457–75.'
 ---
 
 <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
