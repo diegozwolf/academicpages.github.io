@@ -11,11 +11,18 @@ author_profile: true
 
 Phone
 ======
-* 000000
+* (212) 817-8683 (CUNY Graduate Center)
+* (718) 997-5473 (Queens College, CUNY)
 
 
 email
 ======
-* email@gmail.com
+* pliberman [at] gc.cuny.edu (CUNY Graduate Center)
+* liberman [at] qc.cuny.edu (Queens College, CUNY)
+* pjliberman [at] gmail.com (personal)
 
+post
+======
+* Political Science Program, 365 Fifth Avenue Rm. 5202, New York, NY 10016 USA (CUNY Graduate Center)
+* Department of Political Science, Queens College, 65-30 Kissena Blvd., Queens NY 11367 USA (Queens College, CUNY)
 
