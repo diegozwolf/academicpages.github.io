@@ -1,13 +1,13 @@
 ---
-title: "Vicarious Revenge and the Death of Osama bin Laden (May 2014)"
+title: "Vicarious Revenge and the Death of Osama bin Laden"
 collection: peer_reviewed_books
 permalink: /peer_reviewed_articles/3-vicarius_revenge
-excerpt: 'Personality and Social Psychology Bulletin, Vol. 40, No. 5 (May 2014), 604–616. Fifth author, coauthored with Mario Gollwitzer, Linda J. Skitka, Anre Sjöström, Daniel Wisneski, Syed Javed Nazir, and Brad Bushman.n.'
+# excerpt: 'Personality and Social Psychology Bulletin, Vol. 40, No. 5 (May 2014), 604–616. Fifth author, coauthored with Mario Gollwitzer, Linda J. Skitka, Anre Sjöström, Daniel Wisneski, Syed Javed Nazir, and Brad Bushman.n.'
 # date: 2014-05-01
 venue: 'Journal 1'
 # link
 # paperurl: '' 
-# citation: ' Fifth author, coauthored with Mario Gollwitzer, Linda J. Skitka, Anre Sjöström, Daniel Wisneski, Syed Javed Nazir, and Brad Bushman.'
+citation: 'Mario Gollwitzer, Linda J. Skitka, Anre Sjöström, Daniel Wisneski, Peter Liberman, Syed Javed Nazir, and Brad Bushman. "Vicarious Revenge and the Death of Osama bin Laden,” Personality and Social Psychology Bulletin, Vol. 40, No. 5 (May 2014): 604–616.'
 ---
 “Vicarious Revenge and the Death of Osama bin Laden,” Personality and Social Psychology Bulletin, Vol. 40, No. 5 (May 2014), 604–616. Fifth author, coauthored with Mario Gollwitzer, Linda J. Skitka, Anre Sjöström, Daniel Wisneski, Syed Javed Nazir, and Brad Bushman.n.
 
