@@ -9,7 +9,7 @@ venue: 'Journal 1'
 # paperurl: '' 
 citation: 'Mario Gollwitzer, Linda J. Skitka, Anre Sjöström, Daniel Wisneski, Peter Liberman, Syed Javed Nazir, and Brad Bushman. "Vicarious Revenge and the Death of Osama bin Laden,” Personality and Social Psychology Bulletin, Vol. 40, No. 5 (May 2014): 604–616.'
 ---
-# “Vicarious Revenge and the Death of Osama bin Laden,” Personality and Social Psychology Bulletin, Vol. 40, No. 5 (May 2014), 604–616. Fifth author, coauthored with Mario Gollwitzer, Linda J. Skitka, Anre Sjöström, Daniel Wisneski, Syed Javed Nazir, and Brad Bushman.n.
+
 
 <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
 
