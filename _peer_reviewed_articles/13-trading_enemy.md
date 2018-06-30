@@ -7,9 +7,9 @@ permalink: /peer_reviewed_articles/13-trading_enemy
 venue: 'Journal 1'
 # link 
 paperurl: 'https://www.jstor.org/stable/2539111' 
-# citation: 'Peter Liberman, “Trading with the Enemy: Security and Relative Economic Gains,” International Security, Vol. 21, No. 1 (Summer 1996): 147–75.'
+citation: 'Peter Liberman, “Trading with the Enemy: Security and Relative Economic Gains,” International Security, Vol. 21, No. 1 (Summer 1996): 147–75.'
 ---
-“Trading with the Enemy: Security and Relative Economic Gains,” International Security, Vol. 21, No. 1 (Summer 1996), 147–75.
+
 <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
