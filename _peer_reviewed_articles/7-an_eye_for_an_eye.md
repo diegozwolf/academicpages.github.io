@@ -6,8 +6,8 @@ permalink: /peer_reviewed_articles/7-an_eye_for_an_eye.
 # date: 2006-06-01
 venue: 'Journal 1'
 # link
-# paperurl: '' 
-# citation: 'Peter Liberman, “An Eye for an Eye: Public Support for War against Evildoers,” International Organization, Vol. 60, No. 3 (Summer 2006): 687–722.'
+paperurl: 'https://www.jstor.org/stable/3877824' 
+citation: 'Peter Liberman, “An Eye for an Eye: Public Support for War against Evildoers,” International Organization, Vol. 60, No. 3 (Summer 2006): 687–722.'
 ---
 
 
