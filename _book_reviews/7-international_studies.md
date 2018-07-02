@@ -9,7 +9,7 @@ venue: 'Journal 1'
 # paperurl: '' 
 # citation: ''
 ---
-International Studies Review, Vol. 6 (2004). Review of Edward D. Mansfield and Brian M. Pollins, eds., Economic Interdependence and International Conflict: New Perspectives on an Enduring Debate. 
+International Studies Review, Vol. 6 (2004). Review of Edward D. Mansfield and Brian M. Pollins, eds., Economic Interdependence and International Conflict: New Perspectives on an Enduring Debate.
 
 <!-- [Read paper here](http://www.foreignaffairs.com/articles/141036/peter-liberman-and-julie-a-george/will-conquest-pdf) -->
 
