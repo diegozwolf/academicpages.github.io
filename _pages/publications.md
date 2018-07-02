@@ -14,28 +14,28 @@ author_profile: true
 Peer Reviewed Books
 ======
 
-{% for post in site.peer_reviewed_books %}
+{% for post in site.peer_reviewed_books reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
 Peer Reviewed Articles
 ======
 
-{% for post in site.peer_reviewed_articles %}
+{% for post in site.peer_reviewed_articles reversed %}
    {% include archive-single.html %}
 {% endfor %}
 
 Non-refereed Publications
 ======
 
-{% for post in site.non_refereed_publications %}
+{% for post in site.non_refereed_publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
 Work in progress
 ======
 
-{% for post in site.in_progress %}
+{% for post in site.in_progress reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
@@ -43,7 +43,7 @@ Work in progress
 {% if false %}
   Book Reviews
   ======
-  {% for post in site.book_reviews %}
+  {% for post in site.book_reviews  reversed %}
     {% include archive-single.html %}
   {% endfor %} 
 {% endif %}
