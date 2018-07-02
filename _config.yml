@@ -240,6 +240,51 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _book_reviews
+  - scope:
+      path: ""
+      type: book_reviews
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _in_progress
+  - scope:
+      path: ""
+      type: _in_progress
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _non_refereed_publications
+  - scope:
+      path: ""
+      type: _non_refereed_publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _peer_reviewed_books
+  - scope:
+      path: ""
+      type: _peer_reviewed_books
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _peer_reviewed_articles
+  - scope:
+      path: ""
+      type: _peer_reviewed_articles
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
      # _contact
   - scope:
       path: ""
