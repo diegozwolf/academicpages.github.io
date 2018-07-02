@@ -5,7 +5,7 @@ permalink: /book_review/5-journal_of_cold
 excerpt: 'Vol. 11, No. 1 (Winter 2009). Review of Kevin Narizny, The Political Economy of Grand Strategy.'
 # date: 2009-12-01
 venue: 'Journal 1'
-# link
+
 # paperurl: ''
 # citation: ''
 ---

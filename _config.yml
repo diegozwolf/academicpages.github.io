@@ -276,7 +276,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _peer_reviewed_articles
+  # _peer_reviewed_books
+  - scope:
+      path: ""
+      type: peer_reviewed_books
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  #_peer_reviewed_articles
   - scope:
       path: ""
       type: peer_reviewed_articles

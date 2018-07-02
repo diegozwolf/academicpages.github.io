@@ -5,7 +5,7 @@ permalink: /book_reviews/3-diplo
 excerpt: ' With Federico Manfredi, extended review of David Edelstein, Occupational Hazards: Success & Failure in Military Occupations'
 # date: 2009-01-01
 venue: 'Journal 1'
-# link
+
 paperurl: 'https://networks.h-net.org/h-diplo' 
 # citation: ''
 ---

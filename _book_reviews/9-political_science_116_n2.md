@@ -5,7 +5,7 @@ permalink: /book_review/9-political_science_116_n2
 excerpt: ' Vol. 116, No. 2 (Summer 2001), 330–2. Review of Katja Weber, Hierarchy Amidst Anarchy: Transaction Costs and International Choice.'
 # date: 2001-06-01
 venue: 'Journal 1'
-# link
+
 # paperurl: ''
 # citation: ''
 ---

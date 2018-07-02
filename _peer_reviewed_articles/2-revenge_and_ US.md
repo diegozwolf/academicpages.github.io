@@ -5,7 +5,7 @@ permalink: /peer_reviewed_articles/2-revenge_and_US
 # excerpt: 'Public Opinion Quarterly, Vol. 81, No. 3 (Fall 2017), 636–660. First author, co-authored with Linda J. Skitka'
 # date: 2017-10-01
 venue: 'Journal 1'
-# link
+
 paperurl: 'https://doi.org/10.1093/poq/nfx005' 
 citation: 'Peter Liberman and Linda J. Skitka, “Revenge and U.S. Public Support for War Against Iraq,” <i>Public Opinion Quarterly</i>, Vol. 81, No. 3 (Fall 2017), 636–660.'
 ---

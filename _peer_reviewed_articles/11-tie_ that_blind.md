@@ -5,7 +5,7 @@ permalink: /peer_reviewed_articles/11-tie_that_blind
 # excerpt: 'Security Studies, Vol. 10, No. 2 (Winter 2000/2001), 98–138.'
 # date: 2000-12-01
 venue: 'Journal 1'
-# link
+
 paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/09636410008429431'
 citation: 'Peter Liberman, Ties that Blind: Will Germany and Japan Rely Too Much on the United States?” <i>Security Studies</i>, Vol. 10, No. 2 (Winter 2000/2001), 98–138.'
 ---

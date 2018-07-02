@@ -5,7 +5,7 @@ permalink: /book_review/4-political_science
 excerpt: 'Vol. 123, No. 4 (Winter 2008–9). Review of Nina Tannenwald, The Nuclear Taboo: The United States and the Non-Use of Nuclear Weapons Since 1945.'
 date: 2008-09-01
 venue: 'Journal 1'
-# link
+
 # paperurl: '' 
 # citation: ''
 ---

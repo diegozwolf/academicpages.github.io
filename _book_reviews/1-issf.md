@@ -5,7 +5,7 @@ permalink: /book_reviews/1-issf
 excerpt: 'Extended review of Paul MacDonald, Networks of Domination: The Social Foundations of Peripheral Conquest in International Politics.'
 # date: 2015-01-01
 venue: 'Journal 1'
-# link
+
 # paperurl: '' 
 # citation: ''
 ---

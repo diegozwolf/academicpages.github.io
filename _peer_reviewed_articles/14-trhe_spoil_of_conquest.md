@@ -5,7 +5,7 @@ permalink: /peer_reviewed_articles/14-trhe_spoil_of_conquest
 # excerpt: ''
 # date: 1993-11-01
 venue: 'Journal 1'
-# link
+
 paperurl: 'https://www.jstor.org/stable/2539099' 
 citation: 'Peter Liberman, "The Spoils of Conquest," <i>International Security</i>, Vol. 18, No. 2 (Fall 1993): 125–53. Also reprinted in <i>The Perils of Anarchy: Contemporary Realism and International Security</i>, eds. Michael E. Brown, Sean M. Lynn-Jones, and Steven E. Miller (Cambridge: MIT Press, 1995), 179–207.'
 ---

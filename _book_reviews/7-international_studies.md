@@ -5,7 +5,7 @@ permalink: /book_review/7-international_studies.
 excerpt: 'Vol. 6 (2004). Review of Edward D. Mansfield and Brian M. Pollins, eds., Economic Interdependence and International Conflict: New Perspectives on an Enduring Debate.'
 date: 2009-12-01
 venue: 'Journal 1'
-# # link
+# 
 # paperurl: '' 
 # citation: ''
 ---

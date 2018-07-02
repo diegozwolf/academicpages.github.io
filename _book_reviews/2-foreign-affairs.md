@@ -5,7 +5,7 @@ permalink: /book_reviews/2-foreign-affairs
 excerpt: 'Review of John M. Owen IV, The Clash of Ideas in World Politics: Transnational Networks, States, and Regime Change, 1510–2010.'
 # date: 2011-02-01
 venue: 'Journal 1'
-# link
+
 # paperurl: '' 
 # citation: ''
 ---

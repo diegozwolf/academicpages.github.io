@@ -13,12 +13,13 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.peer_reviewed_books reversed %}
-  
+
+<!-- <h2><i>Peer Reviewed Books</i></h2> -->
+{% for post in site.peer_reviewed_books %}
   {% include archive-single.html %}
 {% endfor %}
 
-<h2><i>Peer-Reviewed Articles</i></h2>
+<h2><i>Peer Reviewed Articles</i></h2>
 
 {% for post in site.peer_reviewed_articles %}
    {% include archive-single.html %}
@@ -36,7 +37,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<!-- <h2><i>Book Reviews</i></h2>
+ <!-- <h2><i>Book Reviews</i></h2>
 {% for post in site.book_reviews %}
   {% include archive-single.html %}
 {% endfor %} -->
