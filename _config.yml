@@ -252,7 +252,7 @@ defaults:
   # _in_progress
   - scope:
       path: ""
-      type: _in_progress
+      type: in_progress
     values:
       layout: single
       author_profile: true
@@ -261,7 +261,7 @@ defaults:
   # _non_refereed_publications
   - scope:
       path: ""
-      type: _non_refereed_publications
+      type: non_refereed_publications
     values:
       layout: single
       author_profile: true
@@ -270,7 +270,7 @@ defaults:
   # _peer_reviewed_books
   - scope:
       path: ""
-      type: _peer_reviewed_books
+      type: peer_reviewed_books
     values:
       layout: single
       author_profile: true
@@ -279,7 +279,7 @@ defaults:
   # _peer_reviewed_articles
   - scope:
       path: ""
-      type: _peer_reviewed_articles
+      type: peer_reviewed_articles
     values:
       layout: single
       author_profile: true
