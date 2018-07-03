@@ -12,21 +12,21 @@ author_profile: true
 {% include base_path %}
 
 
-<u>Peer Reviewed Books</u>
+<i>Peer Reviewed Books</i>
 ======
 
 {% for post in site.peer_reviewed_books reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-<u>Peer Reviewed Articles</u>
+<i>Peer Reviewed Articles</i>
 ======
 
 {% for post in site.peer_reviewed_articles reversed %}
    {% include archive-single.html %}
 {% endfor %}
 
-<u>Non-refereed Publications</u>
+<i>Non-refereed Publications</i>
 ======
 
 {% for post in site.non_refereed_publications reversed %}
