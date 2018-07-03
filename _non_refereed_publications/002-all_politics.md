@@ -2,7 +2,7 @@
 title: 'All Politics Is Olfactory'
 collection: non_refereed_publications
 permalink: /non_refereed_publications/2-all_politics
-excerpt: 'The New York Times, October 23, 2010, p. WK12. First author, coauthored with David Pizarro.'
+excerpt: ' '
 # date: 2010-10-23
 venue: 'Journal 1'
 
