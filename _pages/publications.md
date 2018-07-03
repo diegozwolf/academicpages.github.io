@@ -33,7 +33,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<u>Work in progress</u>
+<i>Work in progress</i>
 ======
 
 {% for post in site.in_progress reversed %}
