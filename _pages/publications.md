@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-Peer Reviewed Books
+<u>Peer Reviewed Books</u>
 ======
 
 {% for post in site.peer_reviewed_books reversed %}
