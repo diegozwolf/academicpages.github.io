@@ -11,6 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
+
 <u>Peer Reviewed Books</u>
 ======
 
@@ -18,21 +19,21 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Peer Reviewed Articles
+<u>Peer Reviewed Articles</u>
 ======
 
 {% for post in site.peer_reviewed_articles reversed %}
    {% include archive-single.html %}
 {% endfor %}
 
-Non-refereed Publications
+<u>Non-refereed Publications</u>
 ======
 
 {% for post in site.non_refereed_publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-Work in progress
+<u>Work in progress</u>
 ======
 
 {% for post in site.in_progress reversed %}
