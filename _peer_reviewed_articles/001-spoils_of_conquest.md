@@ -1,7 +1,7 @@
 ---
 title: "The Spoils of Conquest"
 collection: peer_reviewed_books
-permalink: /peer_reviewed_articles/14-trhe_spoil_of_conquest
+permalink: /peer_reviewed_articles/001-spoils_of_conquest
 # excerpt: ''
 # date: 1993-11-01
 venue: 'Journal 1'
