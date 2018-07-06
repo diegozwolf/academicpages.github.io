@@ -1,7 +1,7 @@
 ---
 title: "Revenge and U.S. Public Support for War Against Iraq"
 collection: peer_reviewed_books
-permalink: /peer_reviewed_articles/013-revenge_and_ US
+permalink: /peer_reviewed_articles/013-revenge_and_US
 # excerpt: 'Public Opinion Quarterly, Vol. 81, No. 3 (Fall 2017), 636–660. First author, co-authored with Linda J. Skitka'
 # date: 2017-10-01
 venue: 'Journal 1'
