@@ -1,7 +1,7 @@
 ---
 title: "Unveiling South Africa’s Nuclear Past"
 collection: peer_reviewed_books
-permalink: /peer_reviewed_articles/9-unveiling_south_africa
+permalink: /peer_reviewed_articles/007-unveiling_south_africa
 # excerpt: ' '
 # date: 2004-09-01
 venue: 'Journal 1'
