@@ -1,7 +1,7 @@
 ---
 title: "Vicarious Revenge and the Death of Osama bin Laden"
 collection: peer_reviewed_books
-permalink: /peer_reviewed_articles/3-vicarius_revenge
+permalink: /peer_reviewed_articles/012-vicarious_revenge
 # excerpt: ''
 # date: 2014-05-01
 venue: 'Journal 1'
