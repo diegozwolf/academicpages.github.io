@@ -1,7 +1,7 @@
 ---
 title: "The Rise and Fall of the South African Bomb"
 collection: peer_reviewed_books
-permalink: /peer_reviewed_articles/10-the_rise_and_fall
+permalink: /peer_reviewed_articles/005-rise_and_fall
 excerpt: ''
 # date: 2001-09-01
 venue: 'Journal 1'
