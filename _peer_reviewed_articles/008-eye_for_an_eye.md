@@ -1,7 +1,7 @@
 ---
 title: "An Eye for an Eye: Public Support for War against Evildoers"
 collection: peer_reviewed_books
-permalink: /peer_reviewed_articles/7-an_eye_for_an_eye.
+permalink: /peer_reviewed_articles/008-an_eye_for_an_eye.
 # excerpt: 'International Organization, Vol. 60, No. 3 (Summer 2006), 687–722.'
 # date: 2006-06-01
 venue: 'Journal 1'
