@@ -1,7 +1,7 @@
 ---
 title: "Punitiveness and U.S. Elite Support for the 1991 Persian Gulf War"
 collection: peer_reviewed_books
-permalink: /peer_reviewed_articles/6-punitiveness_and_US
+permalink: /peer_reviewed_articles/009-punitiveness_and_US
 # excerpt: 'Journal of Conflict Resolution, Vol. 51, No. 1.'
 # date: 2007-02-01
 venue: 'Journal 1'
