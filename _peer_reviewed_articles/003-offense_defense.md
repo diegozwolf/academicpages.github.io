@@ -2,7 +2,7 @@
 title: "The Offense-Defense Balance, Interdependence, and War"
 collection: peer_reviewed_books
 permalink: /peer_reviewed_articles/003-offense_defense
-# excerpt: ''
+excerpt: ''
 # date: 2000-12-01
 venue: 'Journal 1'
 
