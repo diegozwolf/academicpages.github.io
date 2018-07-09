@@ -2,7 +2,7 @@
 title: "Punitiveness and U.S. Elite Support for the 1991 Persian Gulf War"
 collection: peer_reviewed_books
 permalink: /peer_reviewed_articles/009-punitiveness_and_US
-excerpt: ' '
+excerpt: 'Among opinion leaders, death penalty supporters were substantially more likely than opponents to support the 1991 Gulf War, condone the Iraqi death toll, and favor escalating the war to topple Saddam Hussein.'
 # date: 2007-02-01
 venue: 'Journal 1'
 
@@ -10,7 +10,7 @@ paperurl: https://www.jstor.org/stable/27638536
 citation: 'Peter Liberman, Punitiveness and U.S. Elite Support for the 1991 Persian Gulf War,” <i>Journal of Conflict Resolution</i>, Vol. 51, No. 1 (February 2007): 3–32.'
 ---
 
-Abstract: This article tests the hypothesis that ordinary people favor punishing badly behaved foreign actors tomake them "pay" for their crimes rather than purely toprotect national security interests. In an undergraduate sample, people’s endorsement of the principle of retributive punishment was related to their support for punishing transgressor states and their support for torturing detainees, controlling for partisanship, ideology, humanitarian and security values, and beliefs about the efficacy of force. The interstate transgression scenarios included a state sponsoring terror attacks against a rival, a nuclear proliferator, and a small, unnamed aggressor. Retributive dispositions were also strongly related to support for the death penalty, which helps explain prior findings that American death penalty supporters are unusually bellicose toward foreign wrongdoers.
+Abstract: There is a substantial moralistic streak in U.S. elite attitudes about war against states perceived as evil. Among opinion leaders, death penalty supporters were substantially more likely than opponents to support the 1991 Gulf War, condone the Iraqi death toll, and favor escalating the war to topple Saddam Hussein. These relationships persist after controlling for ideology, nationalism, and instrumental beliefs about force and thus probably result from individual differences in retributiveness and humanitarianism, moral values known to underlie death penalty attitudes. Foreign policy expertise moderated this effect only on the regime change issue, and then only moderately, suggesting that “moral punitiveness” might also influence the thinking of decision makers. President George H. W. Bush evidently felt real moral outrage during the crisis about Iraq’s aggression, but he refrained from escalating the war to punish Saddam more severely for it.
 
 <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
 
