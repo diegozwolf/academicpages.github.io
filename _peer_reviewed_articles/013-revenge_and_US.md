@@ -2,7 +2,7 @@
 title: "Revenge and U.S. Public Support for War Against Iraq"
 collection: peer_reviewed_books
 permalink: /peer_reviewed_articles/013-revenge_and_US
-excerpt: ' '
+excerpt: 'US citizens who mistakenly blamed Iraq for 9/11 were more likely to say that going to war would satisfy their desires for revenge, which in turn predicted greater war support, controlling for political orientations and the perceived security incentives and costs of war. But a substantial proportion of those who said Iraq was not involved in 9/11 also expected war to satisfy desires for revenge, suggesting that a revenge “spillover” effect also contributed to war support.'
 # date: 2017-10-01
 venue: 'Journal 1'
 
