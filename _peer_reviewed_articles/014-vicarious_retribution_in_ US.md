@@ -2,7 +2,7 @@
 title: "Vicarious Retribution in U.S. Public Support for War Against Iraq"
 collection: peer_reviewed_books
 permalink: /peer_reviewed_articles/014-vicarious_retribution_in_ US
-excerpt: 'U.S. public anger and desires to avenge the 11 September 2001 terror attacks were redirected toward Iraq partly because of its identity as an Arab and Muslim state.'
+excerpt: "U.S. public anger and desires to avenge the 11 September 2001 terror attacks were redirected toward Iraq partly because of its identity as an Arab and Muslim state."
 # date: 1996-01-01
 venue: 'Journal 1'
 
