@@ -2,7 +2,7 @@
 title: "Ties that Blind: Will Germany and Japan Rely Too Much on the United States?"
 collection: peer_reviewed_books
 permalink: /peer_reviewed_articles/004-ties_that_blind
-excerpt: ''
+excerpt: 'German and Japanese antimilitarist cultures and institutions could lead to over-reliance on U.S. protection and postpone German and Japanese efforts to acquire nuclear weapons until a serious crisis develops, which would be a particularly dangerous time for them to do so. '
 # date: 2000-12-01
 venue: 'Journal 1'
 
