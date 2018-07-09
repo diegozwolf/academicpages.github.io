@@ -2,7 +2,7 @@
 title: "The Rise and Fall of the South African Bomb"
 collection: peer_reviewed_books
 permalink: /peer_reviewed_articles/005-rise_and_fall
-excerpt: ''
+excerpt: 'Dozens of interviews with South African nuclear policymakers shed new light on the roles of security incentives, organizational politics, and international pressure (along with state sensitivity to such pressure) on South African nuclear acquisition and disarmament.'
 # date: 2001-09-01
 venue: 'Journal 1'
 
