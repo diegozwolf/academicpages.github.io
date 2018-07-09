@@ -2,7 +2,7 @@
 title: "Israel and the South African Bomb"
 collection: peer_reviewed_books
 permalink: /peer_reviewed_articles/006-israel_and_the_south
-excerpt: ''
+excerpt: 'A newly declassified, 1975 South African Defense Force document, recommending the acquisition of nuclear-armed Jericho missiles, reveals high-level military interest in nuclear weapons at the time and corroborates prior accounts of an Israeli offer to sell missiles to South Africa.'
 # date: 2004-06-01
 venue: 'Journal 1'
 
