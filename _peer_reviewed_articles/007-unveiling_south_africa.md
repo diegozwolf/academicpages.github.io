@@ -2,7 +2,7 @@
 title: "Unveiling South Africa’s Nuclear Past"
 collection: peer_reviewed_books
 permalink: /peer_reviewed_articles/007-unveiling_south_africa
-excerpt: "The recent declassification and release of an important 1975 South African Defence Force memorandum recommending the acquisition of nuclear weapons shows that important documents have survived from the apartheid-era nuclear weapons program. However, despite the recent Promotion of Access to Information Act and convening of an interdepartmental Classification and Declassification Review Committee, there has been little official openness of these apartheid-era archives.'
+excerpt: 'There has been little official openness of apartheid-era archives, but the recent declassification and release of an important 1975 South African Defence Force memorandum shows that important documents survived from the apartheid-era nuclear weapons program and might come to light by persistent use of the recent Promotion of Access to Information Act.'
 # date: 2004-09-01
 venue: 'Journal 1'
 
