@@ -2,7 +2,7 @@
 title: "Retributive Support for International Punishment and Torture"
 collection: peer_reviewed_books
 permalink: /peer_reviewed_articles/010-retributive_support
-excerpt: ' '
+excerpt: 'Undergraduates' endorsement of retributive punishment predicted support for punishing transgressor states and support for torturing detainees, controlling for partisanship, ideology, humanitarian and security values, and beliefs about the efficacy of force.'
 # date: 2013-04-01
 venue: 'Journal 1'
 
