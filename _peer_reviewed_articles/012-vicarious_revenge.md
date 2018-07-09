@@ -2,7 +2,7 @@
 title: "Vicarious Revenge and the Death of Osama bin Laden"
 collection: peer_reviewed_books
 permalink: /peer_reviewed_articles/012-vicarious_revenge
-excerpt: ' '
+excerpt: 'Examines how the U.S. public's longstanding desires for revenge were affected by the 2011 assassination of Osama bin Laden.'
 # date: 2014-05-01
 venue: 'Journal 1'
 
