@@ -24,5 +24,5 @@ Email
 Post
 ======
 * Political Science Program, CUNY Graduate Center, 365 Fifth Avenue Rm. 5202, New York, NY 10016 USA
-* Department of Political Science, Queens College, CUNY, 65-30 Kissena Blvd., Queens NY 11367 USA
+* Department of Political Science, CUNY Queens College, 65-30 Kissena Blvd., Queens NY 11367 USA
 
