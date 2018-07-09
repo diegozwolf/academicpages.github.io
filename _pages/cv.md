@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+<a style="line-height: 1.5;" href="https://pjliberman.github.io/files/Liberman_CV_6-18.pdf"><span style="color: #333333;"><span style="font-size: medium;">Also available in PDF format.</span></span></a>
+
 {% include base_path %}
 
 Academic Positions
