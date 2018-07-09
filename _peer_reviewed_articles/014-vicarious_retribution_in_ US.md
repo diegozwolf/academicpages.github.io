@@ -2,7 +2,7 @@
 title: "Vicarious Retribution in U.S. Public Support for War Against Iraq"
 collection: peer_reviewed_books
 permalink: /peer_reviewed_articles/014-vicarious_retribution_in_ US
-# excerpt: Security Studies, forthcoming.  First author, co-authored with Linda J.'
+excerpt: ' '
 # date: 1996-01-01
 venue: 'Journal 1'
 
