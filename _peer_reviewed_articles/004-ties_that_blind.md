@@ -2,7 +2,7 @@
 title: "Ties that Blind: Will Germany and Japan Rely Too Much on the United States?"
 collection: peer_reviewed_books
 permalink: /peer_reviewed_articles/004-ties_that_blind
-# excerpt: 'Security Studies, Vol. 10, No. 2 (Winter 2000/2001), 98–138.'
+excerpt: ''
 # date: 2000-12-01
 venue: 'Journal 1'
 
