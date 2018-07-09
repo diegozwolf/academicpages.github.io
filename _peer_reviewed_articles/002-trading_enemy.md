@@ -2,7 +2,7 @@
 title: "Trading with the Enemy: Security and Relative Economic Gains"
 collection: peer_reviewed_books
 permalink: /peer_reviewed_articles/002-trading_enemy
-# excerpt: 'International Security, Vol. 21, No. 1 (Summer 1996), 147–75.'
+excerpt: ''
 # date: 1996-06-01
 venue: 'Journal 1'
  
