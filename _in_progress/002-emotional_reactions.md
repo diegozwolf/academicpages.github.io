@@ -2,7 +2,7 @@
 title: "Emotional Reactions to Terrorism and U.S. Public Support for the Iraq War"
 collection: in_progress
 permalink: /in_progress/1-emotional_reactions
-excerpt: 'presented at the Annual Meeting of the Midwest Political Science Association, Chicago, IL, April 5–8, 2018.'
+excerpt: 'U.S. citizens who were relatively angry and wanting revenge soon after the September 11, 2001 terror attacks more strongly supported war against Iraq over one year later, independently of mistaken beliefs that Iraq had been involved, perceptions of the terrorist threat and war risks, political orientations, and cue taking, indicating a redirection of angry desires for revenge toward Iraq.'
 # date: 2014-03-14
 venue: 'Journal 1'
 
