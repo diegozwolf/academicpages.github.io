@@ -2,7 +2,7 @@
 title: "Israel and the South African Bomb"
 collection: peer_reviewed_books
 permalink: /peer_reviewed_articles/006-israel_and_the_south
-# excerpt: 'The Nonproliferation Review, Vol 11, No. 2 (Summer 2004), 46–80.'
+excerpt: ''
 # date: 2004-06-01
 venue: 'Journal 1'
 
