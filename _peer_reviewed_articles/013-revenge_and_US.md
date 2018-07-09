@@ -2,7 +2,7 @@
 title: "Revenge and U.S. Public Support for War Against Iraq"
 collection: peer_reviewed_books
 permalink: /peer_reviewed_articles/013-revenge_and_US
-excerpt: 'Many U.S. citizens who doubted that Iraq had been involved in the terror attacks nevertheless said that invading Iraq would satisfy their desires for revenge to avenge 9/11, suggesting that a revenge “spillover” effect contributed to war support.'
+excerpt: 'Many U.S. citizens who doubted that Iraq had been involved in the 11 September 2001 terror attacks nevertheless said that invading Iraq would satisfy their desires for revenge, suggesting that incidental revenge and anger contributed to support for the Iraq War.'
 # date: 2017-10-01
 venue: 'Journal 1'
 
