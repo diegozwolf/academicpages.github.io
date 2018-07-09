@@ -2,7 +2,7 @@
 title: "The Offense-Defense Balance, Interdependence, and War"
 collection: peer_reviewed_books
 permalink: /peer_reviewed_articles/003-offense_defense
-excerpt: ''
+excerpt: 'Expectations of protracted attrition wars heighten incentives for trade-dependent states to seize economically valuable territories, as can be seen in German and Japanese grand strategies prior to both world wars, reducing the peace-causing effect of defense dominance. '
 # date: 2000-12-01
 venue: 'Journal 1'
 
