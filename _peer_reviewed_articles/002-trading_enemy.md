@@ -2,7 +2,7 @@
 title: "Trading with the Enemy: Security and Relative Economic Gains"
 collection: peer_reviewed_books
 permalink: /peer_reviewed_articles/002-trading_enemy
-excerpt: 'Case studies of pre-World-War-I Britain's trade with Germany and pre-World-War-II US trade with Japan suggest that relative-gains concerns do not hinder economic cooperation under multipolarity.'
+excerpt: 'Case studies of pre-WWI Britain's trade with Germany and pre-WWII US trade with Japan suggest that relative-gains concerns do not hinder economic cooperation under multipolarity.'
 # date: 1996-06-01
 venue: 'Journal 1'
  
