@@ -24,7 +24,7 @@ Education
   
 Publications
 ======
-* <a style="line-height: 1.5;" href="http://peterliberman.com/publications/"><span style="color: #333333;"><span style="font-size: medium;">Click here for publications.</span></span></a>
+* <a style="line-height: 1.5;" href="http://peterliberman.com/publications/"><span style="color: #333333;"><span style="font-size: medium;">Click for publications page.</span></span></a>
 
 Courses Taught (G=graduate; U=undergraduate)
 ======
@@ -65,7 +65,6 @@ Professional Affiliations and Activities
 * Article manuscript referee, American Journal of Political Science, American Political Science Review, American Politics Research, Conflict * Management and Peace Science, Foreign Policy Analysis, International Security, International Studies Perspectives, International Studies Quarterly, Journal of Conflict Resolution, Public Opinion Quarterly, Security Studies, Social Science Journal, World Politics.
 * Grant referee, Time-Sharing Experiments in the Social Sciences, 2011, 2012, 2013.
 * Member, American Political Science Association, International Studies Association.
-
 
 Fellowships, Grants, and Honors
 ======
