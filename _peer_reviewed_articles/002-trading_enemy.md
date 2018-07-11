@@ -6,7 +6,7 @@ excerpt: 'Case studies of pre-World-War-I Britain's trade with Germany and pre-W
 # date: 1996-06-01
 venue: 'Journal 1'
  
-paperurl: 'https://www.jstor.org/stable/2539111' 
+paperurl: https://www.jstor.org/stable/2539111 
 citation: 'Peter Liberman, “Trading with the Enemy: Security and Relative Economic Gains,” <i>International Security</i>, Vol. 21, No. 1 (Summer 1996): 147–75.'
 ---
 
