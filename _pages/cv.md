@@ -17,28 +17,29 @@ Academic Positions
 * Deputy Executive Officer (i.e., deputy chair), MA/Ph.D. Program in Political Science, CUNY Graduate Center, 2006–7, 2015–present.
 * Assistant to Associate Professor of Political Science, Tulane University, 1992–98.
 
-
 Education
 ======
 * Ph.D. Massachusetts Institute of Technology, 1992 (Political Science). 
 * B.A. Reed College, 1984 (Philosophy).
   
+Publications
+======
+* <a style="line-height: 1.5;" href="http://peterliberman.com/publications/"><span style="color: #333333;"><span style="font-size: medium;">Click here for publications.</span></span></a>
 
 Courses Taught (G=graduate; U=undergraduate)
 ======
-* Introduction to Political Science —U
+* Introduction to Political Science—U
+* International Politics—U
 * Causes of War and Peace—U
 * Politics of Strategy and War—U
 * U.S. Security Policy—U
-* International Relations—U
-* U.S. War on Terror—U
 * Controlling the Bomb—U
 * U.S. Foreign Policy—G & U
 * Comparative Foreign Policy—G & U
 * International Security—G
 * International Relations Theory—G
 * Conduct of Research—G
-* Teaching Political Science
+* Teaching Political Science—G
 
 Research Interests
 ======
