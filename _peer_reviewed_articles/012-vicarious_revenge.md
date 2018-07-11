@@ -6,7 +6,7 @@ excerpt: 'Examines how the U.S. public's longstanding desires for revenge were a
 # date: 2014-05-01
 venue: 'Journal 1'
 
-paperurl: 'http://journals.sagepub.com/doi/abs/10.1177/0146167214521466' 
+paperurl: http://journals.sagepub.com/doi/abs/10.1177/0146167214521466
 citation: 'Mario Gollwitzer, Linda J. Skitka, Anre Sjöström, Daniel Wisneski, Peter Liberman, Syed Javed Nazir, and Brad Bushman. "Vicarious Revenge and the Death of Osama bin Laden,” <i>Personality and Social Psychology Bulletin</i>, Vol. 40, No. 5 (May 2014): 604–616.'
 ---
 
