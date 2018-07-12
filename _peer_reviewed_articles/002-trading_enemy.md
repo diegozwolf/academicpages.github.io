@@ -2,7 +2,7 @@
 title: "Trading with the Enemy: Security and Relative Economic Gains"
 collection: peer_reviewed_books
 permalink: /peer_reviewed_articles/002-trading_enemy
-excerpt: 'Case studies of pre-WWI Ango-German trade and pre-WWII US–Japanese trade suggest that security competition does not hinder economic cooperation under multipolarity.'
+excerpt: 'Thriving Ango-German trade prior to the First World War and US–Japanese trade prior to the Second World War suggest that security competition does not strongly dampen economic cooperation under multipolarity.'
 # date: 1996-06-01
 venue: 'Journal 1'
  
