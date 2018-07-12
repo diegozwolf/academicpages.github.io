@@ -7,9 +7,9 @@ excerpt: 'Examines how the U.S. public's longstanding desires for revenge were a
 venue: 'Journal 1'
 
 paperurl: http://journals.sagepub.com/doi/abs/10.1177/0146167214521466
-citation: 'Mario Gollwitzer, Linda J. Skitka, Anre Sjöström, Daniel Wisneski, Peter Liberman, Syed Javed Nazir, and Brad Bushman. "Vicarious Revenge and the Death of Osama bin Laden,” <i>Personality and Social Psychology Bulletin</i>, Vol. 40, No. 5 (May 2014): 604–616.'
----
+citation: 'Mario Gollwitzer, Linda J. Skitka, Anre Sjöström, Daniel Wisneski, Peter Liberman, Syed Javed Nazir, and Brad Bushman, "Vicarious Revenge and the Death of Osama bin Laden,” <i>Personality and Social Psychology Bulletin</i>, Vol. 40, No. 5 (May 2014): 604–616.'
 
+---
 Abstract: Three hypotheses were derived from research on vicarious revenge and tested in the context of the assassination of Osama bin Laden in 2011. In line with the notion that revenge aims at delivering a message (the “message hypothesis”), Study 1
 shows that Americans’ vengeful desires in the aftermath of 9/11 predicted a sense of justice achieved after bin Laden’s death,
 and that this effect was mediated by perceptions that his assassination sent a message to the perpetrators to not “mess” with
