@@ -2,7 +2,7 @@
 title: "Public Reactions to Terrorism: Fight or Flight?"
 collection: in_progress
 permalink: /in_progress/2-public-reactions
-excerpt: 'Hypothetical terror attacks by the Taliban on U.S. soil, with the declared aim of coercing U.S. withdrawal from Afghanistan, increased support for the Afghanistan War compared to a terrorist threat, an effect mediated by anger and revenge but not fear or threat perceptions.'
+excerpt: 'Hypothetical terror attacks by the Taliban on U.S. soil, with the declared aim of coercing U.S. withdrawal from Afghanistan, increased support for the Afghanistan War compared to a terrorist threat, an effect mediated by anger and revenge but not by fear or threat perceptions.'
 
 # date: 2011-04-11
 venue: 'Journal 1'
