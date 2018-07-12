@@ -2,7 +2,7 @@
 title: "Retributive Support for International Punishment and Torture"
 collection: peer_reviewed_books
 permalink: /peer_reviewed_articles/010-retributive_support
-excerpt: 'Retributive individuals express higher levels of support for punishing transgressor states and torturing detainees, controlling for partisanship, ideology, humanitarian and security values, and beliefs about the efficacy of force.'
+excerpt: 'Retributive individuals more strongly supported punishing transgressor states and torturing detainees, controlling for partisanship, ideology, humanitarian and security values, and beliefs about the efficacy of force.'
 # date: 2013-04-01
 venue: 'Journal 1'
 
