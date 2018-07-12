@@ -2,7 +2,7 @@
 title: "War and Torture as ‘Just Deserts'"
 collection: peer_reviewed_books
 permalink: /peer_reviewed_articles/011-war_ and_torture_as_just_deserts
-excerpt: 'Relatively retributive U.S. citizens express greater support for military responses to international acts of aggression, but only when the casualties are mentioned, as well as greater support for torturing captured terrorists.'
+excerpt: 'Relatively retributive U.S. citizens expressed greater support for military responses to international acts of aggression, but only when the casualties are mentioned, as well as greater support for torturing captured terrorists.'
 # date: 2014-05-01
 venue: 'Journal 1'
 
