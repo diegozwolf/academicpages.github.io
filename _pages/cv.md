@@ -33,12 +33,11 @@ Courses Taught (G=graduate; U=undergraduate)
 * Causes of War and Peace—U
 * Politics of Strategy and War—U
 * U.S. Security Policy—U
-* Controlling the Bomb—U
 * U.S. Foreign Policy—G & U
 * Comparative Foreign Policy—G & U
 * International Security—G
 * International Relations Theory—G
-* Conduct of Research—G
+* Qualitative Research Methods—G
 * Teaching Political Science—G
 
 Research Interests
