@@ -14,12 +14,10 @@ Phone
 * (212) 817-8683 (Graduate Center, CUNY)
 * (718) 997-5473 (Queens College, CUNY)
 
-
 Email
 ======
 * pliberman [at] gc.cuny.edu (Graduate Center, CUNY)
 * liberman [at] qc.cuny.edu (Queens College, CUNY)
-* pjliberman [at] gmail.com (personal)
 
 Post
 ======
