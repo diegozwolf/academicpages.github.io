@@ -10,14 +10,14 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 {% include base_path %}
 
 
-<i>Peer Reviewed Books</i>
+<i>Peer-Reviewed Books</i>
 ======
 
 {% for post in site.peer_reviewed_books reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-<i>Peer Reviewed Articles</i>
+<i>Peer-Reviewed Articles</i>
 ======
 
 {% for post in site.peer_reviewed_articles reversed %}
